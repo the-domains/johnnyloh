@@ -1,0 +1,28 @@
+name: JohnnyLoh
+favicon: null
+layout_spectrum: 0.18527660192921758
+typography_spectrum: 0.5375268771313131
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.1795118129812181
+  lightness: 0.23368266760371625
+  saturation: 0.9585278118029237
+  rhythmicContrast: 0.22192176315002143
+purpose: []
